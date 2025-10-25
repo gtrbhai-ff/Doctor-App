@@ -1,0 +1,18 @@
+#women h1{
+    font-size: 40px;
+    font-weight: bolder;
+    font-stretch:extra-expanded;
+    padding-left: 5%;
+    color: #5a5a5a;
+    text-align: center;
+    margin-top: 120px;
+}
+
+#women #star{
+    display: flex;
+    align-items: center;
+}
+
+#women #star{
+    width: 15px;
+}

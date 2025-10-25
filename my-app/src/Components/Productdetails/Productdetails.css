@@ -1,0 +1,87 @@
+.details{
+    display: flex;
+    gap: 10px;
+    padding: 100px 55px;
+}
+
+.details .subimg img{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.details .mainimg{
+    width: 356px;
+}
+
+.details .mainimg img{
+    height: 713px;
+    width: 356px;
+}
+
+.details .reviews{
+    display: flex;
+    align-items: center;
+    padding: 10px 0 20px 0;
+}
+
+.details .reviews img{
+    width: 15px;
+}
+
+.details .title{
+    padding-left: 30px;
+}
+
+.details .title h1{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.details .title h2{
+    color: red;
+    font-weight: bold;
+    font-size: large;
+}
+
+.details .title p{
+    font-size: small;
+    color: #5a5a5a;
+    padding: 15px 0;
+}
+
+.details .title h3{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px 0;
+}
+
+.details .title .size{
+    display: flex;
+    gap: 10px;
+    padding: 0 0 15px 0;
+}
+
+.details .title .size button{
+    background: #f2f2f2;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.details .title .size .active{
+    background: red;
+}
+
+.details .cart{
+    padding: 50px 0;
+}
+
+.details .cart button{
+    padding: 8px 20px;
+    border-radius: 5px;
+    background: rgb(224, 57, 57);
+}
+
+.details .cart button:hover{
+    background: rgb(202, 50, 50);
+}

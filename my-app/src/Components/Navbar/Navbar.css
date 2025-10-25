@@ -1,0 +1,41 @@
+#search input{
+    border: none;
+    outline: none;
+}
+
+#search img{
+    width: 15px;
+}
+
+#search{
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    padding: 8px 20px;
+    border-radius: 20px;
+}
+
+nav a:hover{
+    color: gray;
+    border-bottom: 2px solid black;
+}
+
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+#cart{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 10px;
+   margin-right: 20px;
+}
+
+#cart img{
+    width: 20px;
+    cursor: pointer;
+}

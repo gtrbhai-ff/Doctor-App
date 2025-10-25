@@ -1,0 +1,47 @@
+.home #hero{
+    width: 100%;
+    height: 100vh;
+}
+
+
+.home #h1{
+    position: absolute;
+    top: 40%;
+    font-size: 50px;
+    font-weight: bolder;
+    font-stretch:extra-expanded;
+    padding-left: 5%;
+    color: #5a5a5a;
+}
+
+.home #p{
+    position: absolute;
+    top: 65%;
+    font-size: 18px;
+    font-weight: bolder;
+    font-stretch:extra-expanded;
+    padding-left: 5%;
+    color: #5a5a5a;
+    padding-top: 10px;
+}
+
+.home .btns{
+    position: absolute;
+    top: 75%;
+    padding-left: 5%;
+    padding-top: 10px;
+}
+
+.home button{
+    padding: 8px 20px;
+    border-radius: 5px;
+    background: white;
+    font-weight: 500;
+    color: #252525;
+}
+
+.home button:hover{
+    color: #5a5a5a;
+    background: #f2f2f2;
+}
+

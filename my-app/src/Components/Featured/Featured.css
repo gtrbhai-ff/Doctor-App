@@ -1,0 +1,18 @@
+#featured h1{
+    font-size: 40px;
+    font-weight: bolder;
+    font-stretch:extra-expanded;
+    padding-left: 5%;
+    color: #5a5a5a;
+    text-align: center;
+    margin-top: 80px;
+}
+
+#featured #star{
+    display: flex;
+    align-items: center;
+}
+
+#featured #star{
+    width: 15px;
+}
